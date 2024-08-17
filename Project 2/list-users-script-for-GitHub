@@ -3,7 +3,7 @@
 # Author : Raj
 # Date : 17/08/2024
 # About : 1.) This shell script will show you the list of users who are working in a particular github repository.
-          2.) It will also show you which permissions those users have regarding the Github repo.
+#          2.) It will also show you which permissions those users have regarding the Github repo.
 
 # GitHub API URL
 API_URL="https://api.github.com"
